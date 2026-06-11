@@ -1,12 +1,7 @@
 ﻿# Git Project
 
-This is a new project.
+## Main Content
+Hello from main branch.
 
-## Feature
-This is a feature update.
-
-## New Feature
-This is a brand new feature added.
-
-### VS Code Feature
-Merged from feature branch via VS Code.
+## Feature Content
+Hello from feature branch.
